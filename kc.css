@@ -1,0 +1,123 @@
+
+
+.container1{
+	padding-top: 0.1px;
+}
+
+.btntop{
+border-radius:20px;
+height:40px;
+width: 140px;
+background-color:white;
+color:black;
+padding-left: 5px;
+padding-right: 20px;
+padding-top: 0px;
+text-align: center;
+border: solid 1px black;
+}
+
+.btntop:hover{
+	background-color: #f5f5f5;
+	color: black;
+
+}
+
+
+.container2{
+
+	padding: 10px;
+	padding-left: 100px;
+	padding-right: 50px
+}
+
+
+.toprimage{
+
+	padding-right: 100px;
+	text-align: middle;
+}
+
+.containermain{
+
+	padding-left: 100px;
+}
+
+.table{
+	width: 300px;
+	background-color: #F5F5F5;
+	font-size: 14px;
+}
+
+.downicon{
+	width: 30px;
+	height: 30px;
+}
+
+.th{
+	width: 100px;
+}
+
+
+
+.tablepic{
+	width: 20px;
+	height: 20px;
+}
+
+.tableprogress{
+	width: 850px;
+	height: 200px;
+
+}
+
+.progress-bar{background-color:lawngreen;
+}
+
+th{
+color:blue;
+}
+
+.td{
+	background-color: white;
+}
+
+.btn{
+width:200px;
+background-color: white;
+
+}
+
+
+.table{
+	width: 40%;
+	background-color: white;
+}
+
+.tablepic{
+	width: 20px;
+	height: 20px;
+}
+
+.tableprogress{
+	width: 850px;
+	height: 200px;
+
+}
+.images{
+
+	width: 260px;
+	height: 190px;
+}
+
+.container{
+	width: 1200px;
+	padding-right: 50px;
+}
+
+.buttonimg{
+	width: 20px;
+	height: 20px;
+}
+
+
